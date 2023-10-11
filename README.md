@@ -1,2 +1,2 @@
 <b>atividade pronta.</b> <br>
-objetivo: fazer sair som do soundpad.
+atividade escolar - o objetivo era colocar os áudios no soundpad.
