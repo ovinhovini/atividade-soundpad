@@ -1,1 +1,2 @@
-# atividade-soundpad
+atividade pronta.
+objetivo = fazer sair som do soundpad.
